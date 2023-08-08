@@ -33,3 +33,5 @@ sudo sed -i '/listen 80 default_server/a location /hbnb_static {\nalias /data/we
 
 # restart Nginx after updating the configuration
 sudo service nginx restart
+
+exit 0
