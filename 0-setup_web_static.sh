@@ -16,7 +16,7 @@ echo "<html>
   <head>
   </head>
   <body> 
-    Welcome to The Kenyan Astro page
+    Holberton School
   </body>
   </html>" | sudo tee /data/web_static/releases/test/index.html
 
