@@ -44,7 +44,7 @@ def python_is(text):
 @app.route("/number/<int:n>")
 def int_number(n):
     """returns a number only if it is an integer"""
-    return f"{n} is an number"
+    return f"{n} is a number"
 
 
 if __name__ == "__main__":
